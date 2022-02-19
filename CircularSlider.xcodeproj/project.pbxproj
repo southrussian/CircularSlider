@@ -12,6 +12,7 @@
 		584806DD27C14700008E4A3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 584806DC27C14700008E4A3C /* Assets.xcassets */; };
 		584806E027C14700008E4A3C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 584806DF27C14700008E4A3C /* Preview Assets.xcassets */; };
 		584806E827C14892008E4A3C /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 584806E727C14892008E4A3C /* Home.swift */; };
+		584806EA27C14A7B008E4A3C /* floppa.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 584806E927C14A7B008E4A3C /* floppa.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		584806DC27C14700008E4A3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		584806DF27C14700008E4A3C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		584806E727C14892008E4A3C /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		584806E927C14A7B008E4A3C /* floppa.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = floppa.jpeg; path = ../../../../Downloads/floppa.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				584806D827C146FF008E4A3C /* CircularSliderApp.swift */,
 				584806DA27C146FF008E4A3C /* ContentView.swift */,
 				584806DC27C14700008E4A3C /* Assets.xcassets */,
+				584806E927C14A7B008E4A3C /* floppa.jpeg */,
 				584806DE27C14700008E4A3C /* Preview Content */,
 			);
 			path = CircularSlider;
@@ -136,6 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				584806EA27C14A7B008E4A3C /* floppa.jpeg in Resources */,
 				584806E027C14700008E4A3C /* Preview Assets.xcassets in Resources */,
 				584806DD27C14700008E4A3C /* Assets.xcassets in Resources */,
 			);
